@@ -1,6 +1,8 @@
 50K Array
 ===
 
-A demo of HTML5 Web Worker, sorting 50K array with Bubble Sort by [Afshin Mehrabani](http://afshinm.name/).
+A demo of HTML5 Web Worker, which shows the max recursion depth
 
-**Demo**: http://afshinm.github.io/50k/
+`python3 -m http.server`
+
+Then go to `http://localhost:8000`
